@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 - 👋 Hi, I’m @nickssilver
 I'm a multi-talented human. Most of my time I code and design .
 I don’t like to define myself by the work I’ve done. 
