@@ -1,8 +1,8 @@
 ### Hi there,👋
 
 <div align="center">
-  <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/cover.png" alt="cover" />
-  <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/cover.png" alt="cover" />
+  ![Book logo](/nickssilver/assets/Github-header.png)
+  <img width="100%" src="https://github.com/nickssilver/nickssilver/blob/master/assets/Github-header.png" alt="cover" />
 </div>
 <div align="center">
   
