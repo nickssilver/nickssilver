@@ -12,11 +12,18 @@
 
 <p align="left"> <a href="https://twitter.com/pronic_tech" target="blank"><img src="https://img.shields.io/twitter/follow/pronic_tech?logo=twitter&style=for-the-badge" alt="pronic_tech" /></a> </p>
 
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+<h3 align="left">Talking about Personal Stuffs</h3>
+
 - 🌱 I’m currently learning **C, Python,**
 
-- 💬 Ask me about **php, Javascript**
+- 💬 Ask me about anything tech related, I am happy to help;
+- 💻 I love writing code and learn anythings about it
 
 - 📫 How to reach me **silvernicks9@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,7 +50,7 @@
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<p align="center">Made with ❤️ in Kenya</p>
+<p align="center">Let's ❤️ Code </p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
