@@ -1,9 +1,13 @@
-<!-- <h1 align="center">Hi 👋, I'm Nicks</h1>
-<h3 align="center">A passionate Developer from Kenya</h3>
- -->
- <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Nicks | 💻 Software Engineer | 🛸 Nairobi, Kenya <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<div align="center">
+  
+   
+   
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
+ <div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨 Nicks | 💻 Software Engineer | 🛸 Nairobi, Kenya <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickssilver&label=Profile%20views&color=0e75b6&style=flat" alt="nickssilver" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pronic_tech" target="blank"><img src="https://img.shields.io/twitter/follow/pronic_tech?logo=twitter&style=for-the-badge" alt="pronic_tech" /></a> </p>
