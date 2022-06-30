@@ -1,7 +1,6 @@
 ### Hi there,👋
 
 <div align="center">
-  ![Book logo](/nickssilver/assets/Github-header.png)
   <img width="100%" src="https://github.com/nickssilver/nickssilver/blob/master/assets/Github-header.png" alt="cover" />
 </div>
 <div align="center">
