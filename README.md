@@ -36,7 +36,7 @@
 <a href="https://instagram.com/_pronicks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pronicks" height="30" width="40" /></a>
 <a href="https://dribbble.com/nicks silver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nicks silver" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/nickssilver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="nickssilver" height="30" width="40" /></a>
-<a href="https://discord.gg/#5837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5837" height="30" width="40" /></a>
+<a href="https://discord.gg/pronic#5837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pronic#5837" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
