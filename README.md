@@ -19,7 +19,7 @@
 
 <h3 align="left">Talking about Personal Stuffs</h3>
 
-- 🌱 I’m currently learning **C, Python,**
+- 🌱 I’m currently learning **C, Python, AWS ML**
 
 - 💬 Ask me about anything tech related, I am happy to help;
 - 💻 I love writing code and learn anythings about it
