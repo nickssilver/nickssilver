@@ -2,7 +2,7 @@
 
 <div align="center">
  
-  <img src="assets/Github-header.png" alt="cover" />
+  <img src="assets/images/cv1.png" alt="cover" />
 </div>
 <div align="center">
   
