@@ -1,7 +1,8 @@
 ### Hi there,👋
 
 <div align="center">
-  <img width="100%" src="https://github.com/nickssilver/nickssilver/blob/master/assets/Github-header.png" alt="cover" />
+ 
+  <img src="assets/Github-header.png" alt="cover" />
 </div>
 <div align="center">
   
