@@ -57,7 +57,7 @@
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
 <p align="center">Let's ❤️ Code </p>
-<p align="center"><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/silvernicks"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/silvernicks" /></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/silvernicks"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/silvernicks" /></a></p>
 <br>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
