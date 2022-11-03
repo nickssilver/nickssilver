@@ -18,7 +18,7 @@
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-<h3 align="left">Talking about Personal Stuffs</h3>
+<h3 align="left">Talking about Personal Stuff</h3>
 
 - 🌱 I’m currently learning **Javascript, Python, ML**
 
