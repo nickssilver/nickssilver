@@ -14,7 +14,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickssilver&label=Profile%20views&color=0e75b6&style=flat" alt="nickssilver" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pronic_tech" target="blank"><img src="https://img.shields.io/twitter/follow/pronic_tech?logo=twitter&style=for-the-badge" alt="pronic_tech" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_pronicks" target="blank"><img src="https://img.shields.io/twitter/follow/_pronicks?logo=twitter&style=for-the-badge" alt="_pronicks" /></a> </p>
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
