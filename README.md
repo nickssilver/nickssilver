@@ -26,7 +26,7 @@
 - 💬 Ask me about anything tech related, I am happy to help;
 - 💻 I love writing code and learn anythings about it
 
-- 📫 How to reach me **info@pronic.co.ke**
+- 📫 How to reach me **nicks@pronic.co.ke**
 
 <br>
 
