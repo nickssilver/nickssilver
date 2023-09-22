@@ -4,11 +4,6 @@
  
   <img src="assets/images/cv1.png" alt="cover" />
 </div>
-<div align="center">
-  
- 
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
-</div>
  <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨 Nicks | 💻 Software Engineer | 🛸 Nairobi, Kenya <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
