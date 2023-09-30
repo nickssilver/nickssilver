@@ -16,7 +16,7 @@
 
 <h3 align="left">Talking about Personal Stuff:</h3>
 
-- 🌱 I’m currently developing **Systems**
+- 🌱 I’m currently developing **Systems** in .NET
 
 - 💬 Ask me about anything tech related, I am happy to help;
 - 💻 I love writing code and learn anythings about it
