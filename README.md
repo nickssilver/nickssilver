@@ -52,7 +52,7 @@
 
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+<p align="center">💙 If you like my projects, Give them ⭐</p>
 </p>
 <p align="center">Let's ❤️ Code </p>
 <p align="center"><a href="https://www.buymeacoffee.com/silvernicks"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/silvernicks" /></a></p>
