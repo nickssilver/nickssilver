@@ -8,6 +8,8 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨 Nicks | 💻 Software Engineer | 🛸 Nairobi, Kenya <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <br>
+[![committers.top badge](https://user-badge.committers.top/kenya/USERNAME.svg)](https://user-badge.committers.top/kenya/USERNAME)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickssilver&label=Profile%20views&color=0e75b6&style=flat" alt="nickssilver" /> </p>
 
 <p align="left"> <a href="https://x.com/nicksillver" target="blank"><img src="https://img.shields.io/twitter/follow/nicksillver?logo=twitter&style=for-the-badge" alt="nicksillver" /></a> </p>
