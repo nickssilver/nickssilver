@@ -1,33 +1,28 @@
 ### Hi there,👋
 
-<div align="center">
- 
-  <img src="assets/images/cv1.png" alt="cover" />
-</div>
- <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨 Nicks | 💻 Software Engineer | 🛸 Nairobi, Kenya <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+ <div align="left">
+<h3> Nicks | 💻 Software Engineer | 🛸 Nairobi, Kenya <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <br>
 
-<p align="center"> <a href="https://user-badge.committers.top/kenya/nickssilver">
+<p align="left"> <a href="https://user-badge.committers.top/kenya/nickssilver">
   <img src="https://user-badge.committers.top/kenya/nickssilver.svg" alt="committers.top badge">
 </a></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickssilver&label=Profile%20views&color=0e75b6&style=flat" alt="nickssilver" /> </p>
 
-<p align="left"> <a href="https://x.com/nicksillver" target="blank"><img src="https://img.shields.io/twitter/follow/nicksillver?logo=twitter&style=for-the-badge" alt="nicksillver" /></a> </p>
+<p align="left"> <a href="https://x.com/silnicks" target="blank"><img src="https://img.shields.io/twitter/follow/silnicks?logo=twitter&style=for-the-badge" alt="silnicks" /></a> </p>
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-<h3 align="left">Talking about Personal Stuff:</h3>
+### About Me
 
-- 🌱 I’m currently developing **Systems** in Asp.NET C#
+- 🌱 **Currently Building**: Cutting-edge systems using ASP.NET C# to solve real-world challenges.  
+- 💬 **Ask Me Anything**: I’m always happy to share insights and help with anything tech-related.  
+- 💻 **Love for Technology**: I’m deeply passionate about creating innovative solutions, exploring new technologies, and constantly improving my skills in software development.  
+- 📫 **Get in Touch**: Reach me anytime at [nicks@pronic.co.ke](mailto:nicks@pronic.co.ke).  
 
-- 💬 Ask me about anything tech related, I am happy to help;
-- 💻 I love writing code and learn anythings about it
-
-- 📫 How to reach me **nicks@pronic.co.ke**
 
 <br>
 
@@ -37,7 +32,6 @@
 <a href="https://stackoverflow.com/users/user:11481659" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:11481659" height="30" width="40" /></a>
 <a href="https://fb.com/nickssilver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nickssilver" height="30" width="40" /></a>
 <a href="https://instagram.com/_pronicks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pronicks" height="30" width="40" /></a>
-<a href="https://dribbble.com/nicks silver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nicks silver" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/nickssilver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="nickssilver" height="30" width="40" /></a>
 <a href="https://discord.gg/pronic#5837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pronic#5837" height="30" width="40" /></a>
 </p>
@@ -54,19 +48,26 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nickssilver&" alt="nickssilver" /></p>
 
 <br>
-<h2 align="center">🤝 Support</h2>
+<h2 align="center">🤝 Support & Contributions</h2>
 
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+<p align="center">Your support is invaluable! Contributions via <a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>, issue reporting, and feature suggestions are highly appreciated.</p>
 
-<p align="center">💙 If you like my projects, Give them ⭐</p>
+<p align="center">💙 Enjoying my projects? Consider giving them a ⭐ to show your appreciation and help them reach more people.</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/silvernicks">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+  </a>
 </p>
-<p align="center">Let's ❤️ Code </p>
-<p align="center"><a href="https://www.buymeacoffee.com/silvernicks"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/silvernicks" /></a></p>
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100" alt="Coding Animation"/>
 </div>
+
 <br>
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<h1 align='center'>🚀 <i>Keep Innovating! 
+</i></h1>
+
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
