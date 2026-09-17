@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/images/banner.svg" alt="Nicks Silver — Senior Software Engineer &amp; Lead Systems Architect" width="600" />
+  <img src="assets/images/banner.svg" alt="Nicks Silver — Senior Software Engineer &amp; Lead Systems Architect" width="100%" />
 </div>
 
 <div align="center">
