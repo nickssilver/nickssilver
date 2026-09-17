@@ -1,0 +1,39 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Nicks Silver — Senior Software Engineer &amp; Lead Systems Architect">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1622"/>
+      <stop offset="55%" stop-color="#0d3a5c"/>
+      <stop offset="100%" stop-color="#0e75b6"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1b98e0" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#0e75b6" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <g>
+    <path fill="url(#wave1)">
+      <animate attributeName="d" dur="9s" repeatCount="indefinite"
+        values="
+          M0,225 C300,185 900,265 1200,215 L1200,300 L0,300 Z;
+          M0,235 C300,275 900,195 1200,245 L1200,300 L0,300 Z;
+          M0,225 C300,185 900,265 1200,215 L1200,300 L0,300 Z
+        "/>
+    </path>
+    <path fill="#08131e" opacity="0.65">
+      <animate attributeName="d" dur="11s" repeatCount="indefinite"
+        values="
+          M0,255 C400,215 800,285 1200,245 L1200,300 L0,300 Z;
+          M0,265 C400,295 800,225 1200,275 L1200,300 L0,300 Z;
+          M0,255 C400,215 800,285 1200,245 L1200,300 L0,300 Z
+        "/>
+    </path>
+  </g>
+
+  <text x="90" y="158" font-family="Consolas, 'Courier New', monospace" font-size="72" font-weight="700" fill="#4fc3f7">&lt;/&gt;</text>
+
+  <text x="235" y="148" font-family="'Segoe UI', Arial, sans-serif" font-size="58" font-weight="700" fill="#ffffff">Nicks Silver</text>
+  <text x="237" y="184" font-family="'Segoe UI', Arial, sans-serif" font-size="21" letter-spacing="1.5" fill="#7ec8ec">SENIOR SOFTWARE ENGINEER &amp; LEAD SYSTEMS ARCHITECT</text>
+</svg>

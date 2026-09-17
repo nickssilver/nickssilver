@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/images/Github-header-2.png" alt="Nicks Silver banner" width="600" />
+  <img src="assets/images/banner.svg" alt="Nicks Silver — Senior Software Engineer &amp; Lead Systems Architect" width="600" />
 </div>
 
 <div align="center">
