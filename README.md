@@ -16,7 +16,7 @@
 **Senior Software Engineer & Lead Systems Architect** based in Nairobi, Kenya — 5+ years designing, building, and scaling enterprise-grade financial systems, ERPs, and distributed microservices.
 
 - 🏦 Currently architecting core-banking synchronization middleware, KRA eTIMS tax-compliance integrations, and high-throughput background processing (Hangfire/RabbitMQ)
-- 🚀 Founder @ **Pronic Labs** — building FinTech (M-Pesa/Daraja), EdTech, and Construction ERP platforms
+- 🚀 Founder @ **Pronic Labs** — an independent software studio ("Engineered, Not Bought") building purpose-built systems across FinTech & Cooperatives (payment gateway integrations), Institutional EdTech (Acadexa), Construction & Engineering (UltraPMS), Real Estate Tech, Logistics & Supply-Chain, and Enterprise Operations
 - 📈 Recent impact: 45x API throughput gains, zero-downtime compliance migrations for national retail chains, and systems serving 130+ universities & 350+ institutions across Kenya
 - 🧠 R&D on the side: RAG hallucination reduction and algorithmic trading systems (see below)
 - 🤖 All-in on AI-assisted engineering — LLM agents for architecture drafting, automated test generation, and legacy-to-modern refactors
